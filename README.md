@@ -8,4 +8,5 @@
 - Choose `koeality.njineeer-katalon-demo` project
 
 ### How to Run
+- Open LoginTest.groovy in Test Cases folder
 - Click play button (green button)
